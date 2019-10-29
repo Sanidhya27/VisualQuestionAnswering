@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=python /home/sanidhya/Downloads/project/gui.py
+Name=VQA
+Terminal=false
+
+
